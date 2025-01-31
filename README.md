@@ -1,2 +1,2 @@
-# Schäll
+# Shäll
 Swabian Shell
